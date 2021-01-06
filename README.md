@@ -11,7 +11,7 @@ Clone This Repository
 Npm install
 
 #### Step 3
-[Login/Sign Up to Mailchimp](https://mailchimp.com/)  [![Deploy](https://www.mailchimp.com/deploy/button.svg)](https://mailchimp.com/)
+[Login/Sign Up to Mailchimp](https://mailchimp.com/) 
 
 - Get Your Mailchimp Unique Id
 - Generate Your Api Key
