@@ -9,7 +9,7 @@ Clone This Repository
 Npm install
 
 #### Step 3
-[Login/Sign Up to Mailchimp](https://www.google.com)
+[Login/Sign Up to Mailchimp](https://mailchimp.com/)
 
 - Get Your Mailchimp Unique Id
 - Generate Your Api Key
